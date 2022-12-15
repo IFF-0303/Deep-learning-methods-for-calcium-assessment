@@ -4,5 +4,5 @@
 
 The code and more examples will be published after our paper is accepted.
 
-![image](https://github.com/IFF-0303/OCT-Calcium-Assess/tree/main/Figures/mvd70-z6sdp.gif)
+![image](https://github.com/IFF-0303/OCT-Calcium-Assess/blob/main/Figures/mvd70-z6sdp.gif)
 
