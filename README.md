@@ -1,4 +1,4 @@
-# OCT-Calcium-Assess
+# Deep-learning-methods-for-calcium-assessment
  Assessment of coronary calcification  in intravascular OCT using machine/deep learning methods
 
 
